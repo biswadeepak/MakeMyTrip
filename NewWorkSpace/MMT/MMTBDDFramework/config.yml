@@ -1,5 +1,4 @@
 version: 2.1
-app_src_directory: src/main/java
 orbs:
   maven: circleci/maven@0.0.12
 
